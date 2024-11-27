@@ -1,4 +1,4 @@
-# D$^2$-World: An Efficient World Model through Decoupled Dynamic Flow
+# D2-World: An Efficient World Model through Decoupled Dynamic Flow
 
 ### [arXiv](https://arxiv.org/abs/2411.17027) | [Talk ](https://opendrivelab.com/cvpr2024/workshop/)  | [Video](https://www.bilibili.com/video/BV19y411v71G/?vd_source=3994b9005446cf917459e6b861cba42b) | [Challenge](https://opendrivelab.com/challenge2024/#predictive_world_model)
 
@@ -58,7 +58,7 @@ bash tools/dist_train.sh projects/configs/vidar_pretrain/OpenScene/xworld_OpenSc
 
 ## Evaluate the Model
 ```bash
-
+bash tools/dist_test.sh <path/to/config.py> work_dirs/epoch_xxx.pth 8
 ```
 
 
