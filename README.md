@@ -3,6 +3,7 @@
 ### [arXiv](https://arxiv.org/abs/2411.17027) | [Talk ](https://opendrivelab.com/cvpr2024/workshop/)  | [Video](https://www.bilibili.com/video/BV19y411v71G/?vd_source=3994b9005446cf917459e6b861cba42b) | [Challenge](https://opendrivelab.com/challenge2024/#predictive_world_model)
 
 ## News
+- `[2024/11]` Code is released, sorry for so late. 🙏
 - `[2024/11]` The technical report is release on [arXiv](https://arxiv.org/abs/2411.17027).
 - `[2024/06]` The technical report and talk video are submitted to [Challenge Official Website](https://opendrivelab.com/challenge2024/#predictive_world_model). 
 - `[2024/06]` Our method won the Innovation Award💡 and 2nd Place🥈 in the Predictive World Model at [CVPR 2024 Autonomous Grand Challenge](https://opendrivelab.com/challenge2024/). 🎉
