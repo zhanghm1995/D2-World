@@ -22,7 +22,7 @@ from .nuplan_vidar_dataset_v1 import NuPlanViDARDatasetV1
 
 
 @DATASETS.register_module()
-class NuPlanXWorldDataset(NuPlanViDARDatasetV1):
+class NuPlanD2WorldDataset(NuPlanViDARDatasetV1):
     r"""nuplan visual point cloud forecasting dataset.
     """
     def __init__(self,
